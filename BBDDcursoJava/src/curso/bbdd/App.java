@@ -22,7 +22,7 @@ public class App {
 		//creamos el fichero 
 		File fichero=ControlAlumno.GuardarAlumnos();
 		ControlAlumno.imprimirInfoFichero(fichero);
-		ControlAlumno pepe= new ControlAlumno();
+		//ControlAlumno pepe= new ControlAlumno();
 		//leer e imprimir el fichero
 		
 	    }
